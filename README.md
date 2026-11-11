@@ -26,3 +26,6 @@ This project serves as the first hands-on exercise in the fundamental of web fro
 * **Images:** Embedding food photography using `<img>` tags with descriptive `alt` attributes for accessibility.
 * **Git and Github:** Working with git and github. Pushing `git pull filename` and pulling `git push filename` using the terminal.Resolving git conflicts and git branches(detached branch).
 * **Markdown:** Writing my markdown file to describe by project's learning process with commands like `*`,`#` `** **` to write my good markdown file.
+
+## Live Preview of the Project
+[Project preview link](https://layagodfreyclement.github.io/odin-recipes/)
